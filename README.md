@@ -37,3 +37,5 @@ Introducing a curated list of recommendations that I personally enjoyed:
 
 > "Home is where the heart is." -
 > *Gaius Plinius Secundus*
+---
+### Code Snippet
