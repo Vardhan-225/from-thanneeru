@@ -7,3 +7,7 @@ I love KFC for its **commitment to quality** and the **tender and crisp** chicke
 1. Smoky Grilled.
 2. Chicken Popcorn.
 3. French Fries.
+### Favorite Places to Visit Near the Restaurant
+- Taco Bell
+- McDonalds
+- Dominos
