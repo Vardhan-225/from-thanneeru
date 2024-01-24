@@ -13,6 +13,7 @@ Favourite Dishes
 - Taco Bell
 - McDonalds
 - Dominos
+---
 ### My Media
 
-[Learn more about my media preferences](MyMedia.md)
+[Learn more about my media preferences](MYMEDIA.md)
