@@ -33,7 +33,7 @@ Introducing a curated list of recommendations that I personally enjoyed:
 ### Favorite Quotes
 
 > "Everything happens for a reason."
-> — *Kate Bowler*
+> - *Kate Bowler*
 
 > "Home is where the heart is."
-> — *Gaius Plinius Secundus*
+> - *Gaius Plinius Secundus*
