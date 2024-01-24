@@ -18,3 +18,13 @@ Favourite Dishes
 
 [Learn more about my media preferences](MYMEDIA.md)
 ---
+### Recommended Books/Songs/Videos
+
+Introducing a curated list of recommendations that I personally enjoyed:
+
+| Title                        | Reason for Recommendation                                                | Creator                |
+| ---------------------------- | -------------------------------------------------------------------------| -----------------------|
+| Sapiens: A Brief History of Humankind | A captivating exploration of human evolution and history.           | Yuval Noah Harari     |
+| Interstellar                 | A mind-bending and visually stunning sci-fi movie.                      | Christopher Nolan     |
+| My Eyes by Travis Scott      | An impactful song with compelling lyrics and beats.                    | Travis Scott           |
+| AI Alignment Podcast          | Explores the challenges and ethical considerations in AI development. | AI Ethics Experts      |
