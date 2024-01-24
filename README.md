@@ -28,3 +28,12 @@ Introducing a curated list of recommendations that I personally enjoyed:
 | Interstellar                 | A mind-bending and visually stunning sci-fi movie.                      | Christopher Nolan     |
 | My Eyes by Travis Scott      | An impactful song with compelling lyrics and beats.                    | Travis Scott           |
 | AI Alignment Podcast          | Explores the challenges and ethical considerations in AI development. | AI Ethics Experts      |
+
+---
+### Favorite Quotes
+
+> "Everything happens for a reason."
+> — *Kate Bowler*
+
+> "Home is where the heart is."
+> — *Gaius Plinius Secundus*
