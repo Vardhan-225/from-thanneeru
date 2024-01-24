@@ -15,6 +15,4 @@ Favourite Dishes
 - Dominos
 ### My Media
 
-[Learn more about my media preferences][def]
-
-[def]: MyMedia.md
+[Learn more about my media preferences](MyMedia.md)
