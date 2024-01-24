@@ -17,3 +17,4 @@ Favourite Dishes
 ### My Media
 
 [Learn more about my media preferences](MYMEDIA.md)
+---
