@@ -39,3 +39,15 @@ Introducing a curated list of recommendations that I personally enjoyed:
 > *Gaius Plinius Secundus*
 ---
 ### Code Snippet
+```
+const fileSystem = require('fs');
+const editFile = (fileName, text) => {
+	fileSystem.writeFile(fileName, text, (error) => {
+		if (error) throw error;
+		console.log('Replaced the file!');
+	});
+}
+```
+This JavaScript code defines a function, editFile, that uses Node.js' 'fs' module to replace a string in a file.
+
+Code Snippet URL: [Nodejs](https://code.pieces.app/collections/node-js)
